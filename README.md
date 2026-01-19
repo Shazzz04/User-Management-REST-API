@@ -25,8 +25,6 @@ This project is beginner-friendly and suitable for QA, Backend, and Full-Stack p
 ## 📁 Project Structure
 
 ```
-codveda-fullstack-level1/
-│
 ├── server.js
 ├── package.json
 ├── package-lock.json
